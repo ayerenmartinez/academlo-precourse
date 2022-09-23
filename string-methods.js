@@ -6,7 +6,7 @@ console.log(texto.toUpperCase());
 /*
 endswith -- método para poder saber si un texto termina con alguna letra o numero (retorna true o false)
 indexOf -- método para obtener la posición de la primera ocurrencia de una letra o número
-lastIndexOf --métidi para obtener la posición de la última ocurrencia de una letra o número
+lastIndexOf --método para obtener la posición de la última ocurrencia de una letra o número
 slice -- Sirve para obtener un texto o cortar un texto
 replace -- Sirve para remplazar la primera ocurrencia de una letra por otra letra
 includes -- Sirve para comprobar si el texto contiene a otro texto (letra o palabra) retorna true o false
